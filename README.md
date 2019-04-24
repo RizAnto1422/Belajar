@@ -1,1 +1,2 @@
 # Belajar
+GET POST PUT DELETE
